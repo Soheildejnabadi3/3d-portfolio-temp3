@@ -44,4 +44,4 @@ npm run build
 
 ## Live Demo
 
-Visit the live portfolio at (https://your-domain.com)
+Visit the live portfolio at ([https://your-domain.com](https://3d-temp-portfolio.netlify.app/))
